@@ -1,8 +1,8 @@
 Suggested Technologies
 ======================
-IDE: Netbeans 12.6 and above, download at --> (https://netbeans.apache.org/download/index.html)
-Software development environment : JDK 17 and above, download at --> (https://www.oracle.com/java/technologies/downloads/)
-Server: Glassfish 4.1.1, download at --> (https://javaee.github.io/glassfish/download)
+IDE: Netbeans 12.6 and above, download at: (https://netbeans.apache.org/download/index.html)
+Software development environment : JDK 17 and above, download at: (https://www.oracle.com/java/technologies/downloads/)
+Server: Glassfish 4.1.1, download at: (https://javaee.github.io/glassfish/download)
 
 Instructions (Required basic web development knowledge)
 ======================================================
