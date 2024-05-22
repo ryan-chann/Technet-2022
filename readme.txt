@@ -1,3 +1,5 @@
+Project Type: Prototype
+
 Suggested Technologies
 ======================
 IDE: Netbeans 12.6 and above, download at: (https://netbeans.apache.org/download/index.html)
